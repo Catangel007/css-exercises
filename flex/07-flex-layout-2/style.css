@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  
 }
 
 ul{
@@ -52,8 +51,7 @@ a{
   border-radius: 4px;
   width: 200px;
   padding: 25px;
-  margin: 20px;
-  
+  margin: 20px; 
   min-height: 0;
   
 }
@@ -73,6 +71,7 @@ a{
   flex-wrap: wrap;
  margin-top: 30px;
 }
+
 li{
   margin-bottom: 16px;
 }
